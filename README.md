@@ -1,3 +1,3 @@
-# $LAUNCH
+# LAUNCH COIN
 
 placeholder — contents TBD.
